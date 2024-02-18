@@ -6,7 +6,10 @@ hayo kita beolajar
 
 disini kita belajar materi 
 struktur data dasar
+
 *kita perlu belajar 
 -fundamental logic computer programming
 -gelar computer science
 -belajar react js
+
+kita memilih fitur satu atau dua disini saya memilih fitur 1
